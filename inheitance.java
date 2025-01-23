@@ -1,4 +1,4 @@
-ANP_D0453;
+package ANP_D0453;
 
 class Person{
 	String name;
@@ -36,4 +36,11 @@ public class InheritaceEx1 {
 		
 }
 }
-    
+//OUTPUT
+
+/*
+
+*shweta is speaking.
+shweta is studying in grade s.
+
+*/    
